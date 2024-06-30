@@ -1,2 +1,2 @@
-# Ecomerce
-Projeto de Ecomerce em PHP usando o framework Laravel - AMS ADS Fatec
+# Ecommerce
+Projeto de Ecommerce em PHP usando o framework Laravel - AMS ADS Fatec
